@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Hichem 👋
 
-<!--
-**Hichem1978/Hichem1978** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Cybersecurity & Cloud Security Student
 
-Here are some ideas to get you started:
+Currently focused on:
+- Google Cybersecurity Certificate
+- CompTIA Security+
+- Linux Fundamentals
+- Networking Fundamentals
+- AWS Cloud Security
+- SOC Operations
+- Incident Response
+- TryHackMe Labs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Goals
+- Land my first cybersecurity/cloud role
+- Complete WGU Cybersecurity Degree
+- Specialize in Cloud Security
+- Build hands-on skills
+- Long-term goal: Cloud Security Engineer → CISO
+
+## Current Learning Platforms
+- LinkedIn Learning
+- Coursera
+- TryHackMe
+- GitHub
+
+## Labs & Projects Coming Soon
+- Linux labs
+- Networking labs
+- AWS security labs
+- Python automation
+- SIEM projects
+
+## Connect With Me
+LinkedIn:
+www.linkedin.com/in/hichemmessaoudi
